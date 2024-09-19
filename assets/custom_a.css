@@ -1,0 +1,104 @@
+/* Home - Navbar css */
+.custom_background {
+  background-color: #caf0ff;
+}
+
+.custom_menu {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+
+.header__menu-item span {
+  font-family: 'Gilroy';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 32px;
+  text-decoration: none;
+  color: #000000;
+}
+
+/* Home - Banner css */
+.upper_text {
+  font-family: 'Gilroy-Black';
+  text-transform: uppercase;
+  font-size: 140px;
+  font-weight: 900;
+  line-height: 182px;
+  color: #093a14;
+  text-shadow: 0px 4px 4px #00000025;
+}
+
+.center_heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 113px;
+  margin-bottom: 53px;
+}
+
+h2 {
+  word-break: unset;
+}
+
+.banner_h4 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.relative {
+  position: relative;
+}
+
+.skyberry_position {
+  position: absolute;
+  top: 0;
+  max-width: 50%;
+}
+
+#Banner-template--16418791948330__image_banner{
+  height: 767px;
+}
+
+@media screen and (max-width: 1350px) {
+  .center_heading {
+    gap: unset;
+  }
+}
+
+@media screen and (max-width: 1201px) {
+  .upper_text {
+    line-height: 115px;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .upper_text {
+    font-size: 80px;
+  }
+
+  .relative img{
+    width: 50%;
+  }
+}
+
+/* @media screen and (min-width: 768px) and (max-width: 1100px) {
+  .relative img{
+    width: 50%;
+  }
+} */
+
+@media screen and (max-width: 767px) {
+  .upper_text {
+    font-size: 50px;
+    line-height: 50px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .relative {
+    display: none;
+  }
+}

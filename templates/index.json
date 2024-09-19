@@ -1,0 +1,310 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "milkshake mix",
+            "heading_size": "hxxl"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Frame_3.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "custom_liquid_P4nhjQ": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_featured_collection_XdP3Ey": {
+      "type": "custom_featured-collection",
+      "settings": {
+        "unique_class": "featurd_collection",
+        "title": "Discover Our Products",
+        "heading_size": "hxl",
+        "description": "<p>Lorem Ipsum is simply dummy text of the printing and  typesetting industry. Lorem Ipsum has been the industry's standard  dummy text ever since.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "sky-berrys",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 68,
+        "padding_bottom": 36
+      }
+    },
+    "custom_image_with_text_X3T6dy": {
+      "type": "custom-image-with-text",
+      "blocks": {
+        "heading_9krJBB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Lorem Ipsum is simply text kjjkjb jl",
+            "heading_size": "h1"
+          }
+        },
+        "text_jXHpUi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and  typesetting industry. Lorem Ipsum has been the industry's standard  dummy text ever since the 1500s, when an unknown printer took a galley  of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and  typesetting industry. <\/p><p><\/p><p><\/p><p>Lorem Ipsum has been the industry's standard  dummy text ever since the 1500s, when an unknown printer took a galley  of type and scrambled it to make a type specimen book.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_rhX4gf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/skyberry-s-milkshake-mix-strawberry",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9krJBB",
+        "text_jXHpUi",
+        "button_rhX4gf"
+      ],
+      "settings": {
+        "unique_class": "strawberry_img_with_text",
+        "image": "shopify:\/\/shop_images\/pouch.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_multicolumn_EQ9gxz": {
+      "type": "custom-multicolumn",
+      "blocks": {
+        "column_pVctAW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/natural_1.png",
+            "title": "100% Organic",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.  Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_q8T6Nf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/no-preservatives_1.png",
+            "title": "No Artificial Preservatives",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.  Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kKJVU9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sugar_1.png",
+            "title": "Zero Refined Sugar",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.  Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GKhtrP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blueberry_1.png",
+            "title": "100% Real Fruit",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.  Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_pVctAW",
+        "column_q8T6Nf",
+        "column_kKJVU9",
+        "column_GKhtrP"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "custom_rich_text_368Qgr": {
+      "type": "custom-rich-text",
+      "blocks": {
+        "heading_XwVDEW": {
+          "type": "heading",
+          "settings": {
+            "heading": "What They Say About SkyBerry’s",
+            "heading_size": "h1"
+          }
+        },
+        "text_bJDEKn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“I've tried my fair share of kombuchas, but none compare to the  enchanting symphony of flavors that The Good Guys has masterfully  crafted. The marriage of sweet and tangy notes is nothing short of  divine.”<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XwVDEW",
+        "text_bJDEKn"
+      ],
+      "settings": {
+        "unique_class": "custom_rich_text",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "custom_collaps_content_prRWDX": {
+      "type": "custom-collaps_content",
+      "blocks": {
+        "collapsible_row_6U3YqW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum is dummy text of the printing?",
+            "icon": "none",
+            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+            "page": "contact"
+          }
+        },
+        "collapsible_row_QwYC89": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum is simply dummy text of the printing?",
+            "icon": "none",
+            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+            "page": "wish-list"
+          }
+        },
+        "collapsible_row_cdWFxi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum is simply text of the printing?",
+            "icon": "none",
+            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+            "page": "contact"
+          }
+        },
+        "collapsible_row_tMC4kc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum is simply dummy text printing?",
+            "icon": "none",
+            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+            "page": "testing-page"
+          }
+        },
+        "collapsible_row_F8JgyA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem Ipsum is simply dummy text?",
+            "icon": "none",
+            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+            "page": "wish-list"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_6U3YqW",
+        "collapsible_row_QwYC89",
+        "collapsible_row_cdWFxi",
+        "collapsible_row_tMC4kc",
+        "collapsible_row_F8JgyA"
+      ],
+      "settings": {
+        "unique_class": "custom_collapsible_section",
+        "caption": "Lorem Ipsum is simply dummy text of the printing and  typesetting industry. Lorem Ipsum has been the industry's standard  dummy text ever since the 1500s, when an unknown printer took a galley  of type and scrambled it to make a type specimen book.",
+        "heading": "faq's",
+        "heading_size": "hxxl",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 68
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "custom_liquid_P4nhjQ",
+    "custom_featured_collection_XdP3Ey",
+    "custom_image_with_text_X3T6dy",
+    "custom_multicolumn_EQ9gxz",
+    "custom_rich_text_368Qgr",
+    "custom_collaps_content_prRWDX"
+  ]
+}
