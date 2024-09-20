@@ -58,10 +58,6 @@ h2 {
   max-width: 50%;
 }
 
-#Banner-template--16418791948330__image_banner{
-  height: 767px;
-}
-
 @media screen and (max-width: 1350px) {
   .center_heading {
     gap: unset;
