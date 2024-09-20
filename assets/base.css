@@ -776,6 +776,14 @@ summary::-webkit-details-marker {
   margin-bottom: 3rem;
 }
 
+.featurd_collection_cstm .title-wrapper {
+  margin-bottom: 5rem;
+}
+
+.featurd_collection_cstm ul {
+  margin-block-start: 0px;
+}
+
 .title-wrapper-with-link {
   display: flex;
   justify-content: space-between;
