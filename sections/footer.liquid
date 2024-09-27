@@ -44,7 +44,7 @@
     .footer .field {flex-direction: column;}
     .footer .field__input {
       margin-top: 8px;
-      width: 124% !important;
+      width: 100%;
       border-radius: 12px !important;
       background: #7AC1DC;
       color: #ffffff;
@@ -53,7 +53,7 @@
 
       .footer button {
         position: inherit;
-        margin-top: 28px;
+        margin-top: 25px;
     }
 
 
@@ -71,7 +71,8 @@
         font-weight: 400;
         font-size: 24px;
         line-height: 38.4px;
-        margin-bottom: 0px;
+        margin-bottom: 5px;
+        letter-spacing: 0px;
       }
 
       .{{ section.settings.unique_class }} ul li a {
@@ -88,6 +89,16 @@
         gap: 0px;
         flex-direction: column;
         align-items: flex-start;
+        margin-top: 6px;
+       }
+
+       .field__label{
+          font-family: 'Gilroy';
+          font-weight: 400;
+          font-size: 18px;
+          line-height: 55px;
+          letter-spacing: 0px;
+          color: #ffffff;
        }
 
        .Subscribe-btn{
@@ -127,7 +138,9 @@
 
         .footer .page-width {
           padding: unset;
-          width: 1600px;
+          max-width: 1630px;
+          width:100%;
+          padding:0 15px;
         }
 
         .footer .list-menu__item--link {
@@ -314,7 +327,7 @@
                           required
                         >
                         <label class="field__label" for="NewsletterForm--{{ section.id }}">
-                          {{ 'newsletter.label' | t }}
+                          {% comment %} {{ 'newsletter.label' | t }} {% endcomment %} Enter Email
                         </label>
                         <button
                           type="submit"
