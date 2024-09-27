@@ -332,12 +332,12 @@
 
 @media screen and (min-width: 990px) {
   .image-with-text__content {
-    padding: 5rem 4rem 7rem;
+    padding: 7rem 4rem 7rem;
   }
 }
 
 .image-with-text__content > * + * {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 .image-with-text__content > .image-with-text__text:empty ~ a {

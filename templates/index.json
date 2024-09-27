@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -15,7 +24,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -28,7 +37,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Frame_3.png",
+        "image": "shopify://shop_images/Frame_3.png",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -56,7 +65,7 @@
         "unique_class": "featurd_collection",
         "title": "Discover Our Products",
         "heading_size": "hxl",
-        "description": "<p>Lorem Ipsum is simply dummy text of the printing and  typesetting industry. Lorem Ipsum has been the industry's standard  dummy text ever since.<\/p>",
+        "description": "<p>Lorem Ipsum is simply dummy text of the printing and  typesetting industry. Lorem Ipsum has been the industry's standard  dummy text ever since.</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "sky-berrys",
@@ -76,7 +85,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 68,
-        "padding_bottom": 36
+        "padding_bottom": 56
       }
     },
     "custom_image_with_text_X3T6dy": {
@@ -92,7 +101,7 @@
         "text_jXHpUi": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem Ipsum is simply dummy text of the printing and  typesetting industry. Lorem Ipsum has been the industry's standard  dummy text ever since the 1500s, when an unknown printer took a galley  of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and  typesetting industry. <\/p><p><\/p><p><\/p><p>Lorem Ipsum has been the industry's standard  dummy text ever since the 1500s, when an unknown printer took a galley  of type and scrambled it to make a type specimen book.<\/p>",
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and  typesetting industry. Lorem Ipsum has been the industry's standard  dummy text ever since the 1500s, when an unknown printer took a galley  of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and  typesetting industry. </p><p></p><p></p><p>Lorem Ipsum has been the industry's standard  dummy text ever since the 1500s, when an unknown printer took a galley  of type and scrambled it to make a type specimen book.</p>",
             "text_style": "body"
           }
         },
@@ -100,7 +109,7 @@
           "type": "button",
           "settings": {
             "button_label": "Buy Now",
-            "button_link": "shopify:\/\/products\/skyberry-s-milkshake-mix-strawberry",
+            "button_link": "shopify://products/skyberry-s-milkshake-mix-strawberry",
             "button_style_secondary": false
           }
         }
@@ -112,7 +121,7 @@
       ],
       "settings": {
         "unique_class": "strawberry_img_with_text",
-        "image": "shopify:\/\/shop_images\/pouch.png",
+        "image": "shopify://shop_images/pouch.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -133,9 +142,9 @@
         "column_pVctAW": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/natural_1.png",
+            "image": "shopify://shop_images/natural_1.png",
             "title": "100% Organic",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.  Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.<\/p>",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.  Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>",
             "link_label": "",
             "link": ""
           }
@@ -143,9 +152,9 @@
         "column_q8T6Nf": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/no-preservatives_1.png",
+            "image": "shopify://shop_images/no-preservatives_1.png",
             "title": "No Artificial Preservatives",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.  Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.<\/p>",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.  Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>",
             "link_label": "",
             "link": ""
           }
@@ -153,9 +162,9 @@
         "column_kKJVU9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sugar_1.png",
+            "image": "shopify://shop_images/sugar_1.png",
             "title": "Zero Refined Sugar",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.  Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.<\/p>",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.  Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>",
             "link_label": "",
             "link": ""
           }
@@ -163,9 +172,9 @@
         "column_GKhtrP": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blueberry_1.png",
+            "image": "shopify://shop_images/blueberry_1.png",
             "title": "100% Real Fruit",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.  Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.<\/p>",
+            "text": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio.  Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>",
             "link_label": "",
             "link": ""
           }
@@ -207,7 +216,7 @@
         "text_bJDEKn": {
           "type": "text",
           "settings": {
-            "text": "<p>“I've tried my fair share of kombuchas, but none compare to the  enchanting symphony of flavors that The Good Guys has masterfully  crafted. The marriage of sweet and tangy notes is nothing short of  divine.”<\/p>"
+            "text": "<p>“I've tried my fair share of kombuchas, but none compare to the  enchanting symphony of flavors that The Good Guys has masterfully  crafted. The marriage of sweet and tangy notes is nothing short of  divine.”</p>"
           }
         }
       },
@@ -233,7 +242,7 @@
           "settings": {
             "heading": "Lorem Ipsum is dummy text of the printing?",
             "icon": "none",
-            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>",
             "page": "contact"
           }
         },
@@ -242,7 +251,7 @@
           "settings": {
             "heading": "Lorem Ipsum is simply dummy text of the printing?",
             "icon": "none",
-            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>",
             "page": "wish-list"
           }
         },
@@ -251,7 +260,7 @@
           "settings": {
             "heading": "Lorem Ipsum is simply text of the printing?",
             "icon": "none",
-            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>",
             "page": "contact"
           }
         },
@@ -260,7 +269,7 @@
           "settings": {
             "heading": "Lorem Ipsum is simply dummy text printing?",
             "icon": "none",
-            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>",
             "page": "testing-page"
           }
         },
@@ -269,7 +278,7 @@
           "settings": {
             "heading": "Lorem Ipsum is simply dummy text?",
             "icon": "none",
-            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+            "row_content": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>",
             "page": "wish-list"
           }
         }
@@ -294,7 +303,7 @@
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 0,
-        "padding_bottom": 68
+        "padding_bottom": 64
       }
     }
   },
